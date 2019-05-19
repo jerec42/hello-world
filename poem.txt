@@ -10,6 +10,7 @@ frantic such folly
 issue with what we do now
 trying the valley
 
+fixes #2
 
 Violet
 Indigo
